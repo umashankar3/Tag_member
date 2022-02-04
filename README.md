@@ -1,6 +1,6 @@
 # 🔖Tag Member🔖
 
-### Click on picture🔰 <p align="center"><a href="Https://t.me/Tag_member_bot"><img src="https://te.legra.ph/file/5a2d3c2c11daf098877c8.jpg" width="300"></a></p>
+### Click on picture🔰 <p align="center"><a href="Https://t.me/Mhakal_Robot"><img src="https://te.legra.ph/file/5a2d3c2c11daf098877c8.jpg" width="300"></a></p>
 
 </p>
 
@@ -17,7 +17,7 @@
  
 </p>           
 
-## ᴀɴy ᴩʀᴏʙʟᴇᴍ ʟᴇʀ ᴜꜱ ᴋɴᴏᴡ ᴀᴛ [👑ᴏᴡɴᴇʀ👑](Https://t.me/Alone_Shaurya_king) .
+## ᴀɴy ᴩʀᴏʙʟᴇᴍ ʟᴇʀ ᴜꜱ ᴋɴᴏᴡ ᴀᴛ [👑ᴏᴡɴᴇʀ👑](Https://t.me/umashankar31) .
 
 </p>
 
@@ -31,22 +31,22 @@
 
 ## .ᴜᴩᴅᴀᴛᴇꜱ🔊
 
-[![ᴜᴩᴅᴀᴛᴇꜱ](https://img.shields.io/badge/ᴜᴩᴅᴀᴛᴇꜱ-attitude_galaxy-red?style=for-the-badge&logo=telegram)](https://t.me/attitude_galaxy)</br></br>
+[![ᴜᴩᴅᴀᴛᴇꜱ](https://img.shields.io/badge/ᴜᴩᴅᴀᴛᴇꜱ-attitude_galaxy-red?style=for-the-badge&logo=telegram)](https://t.me/shayari_jok)</br></br>
 
 </p>
 
 ## .ꜱᴜᴩᴩᴏʀᴛ🔧
 
-[![ꜱᴜᴩᴩᴏʀᴛ](https://img.shields.io/badge/ꜱᴜᴩᴩᴏʀᴛ-sweet_Kingdom-red?style=for-the-badge&logo=telegram)](https://t.me/sweetkingdom1)</br></br>
+[![ꜱᴜᴩᴩᴏʀᴛ](https://img.shields.io/badge/ꜱᴜᴩᴩᴏʀᴛ-sweet_Kingdom-red?style=for-the-badge&logo=telegram)](https://t.me/shayari_jok)</br></br>
 
 </p>
 
 ## .ᴏᴡɴᴇʀ👑
 
-[![ᴏᴡɴᴇʀ](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](Https://t.me/Alone_Shaurya_king)
+[![ᴏᴡɴᴇʀ](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](Https://t.me/umashankar31)
 
 </p>
 
 ## .ᴅᴇᴩʟᴏy📥
 
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItsAttitudeking/Tag_member)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/umashankar3/Tag_member)
